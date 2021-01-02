@@ -1,0 +1,5 @@
+/venv/
+test.py
+config.json
+*__pycache__*
+.idea
